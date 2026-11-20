@@ -1,10 +1,11 @@
 # THE WORLD'S NEWS IN ONE PICTURE — Thursday 19 November 2026
 
 One image summing up the world's news of Thursday 19 November 2026:
-48 stories from 6 continents on a single newspaper front page —
-3 big headlines, 15 stories in the middle, a "Where it happened"
-world map with numbered pins, and an also-on list, all drawn as
-original AI illustrations.
+50 stories, 7 regions, 11 pictured, on a single newspaper front
+page — 3 lead stories and 8 more pictured cards, a "Where it
+happened" world map with numbered pins, an also-on list running
+from story 12 to story 50, a UTC timeline of the day, and a
+date-check strip separating the day's news from other days'.
 
 [![news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
 [![rank](https://make.fun/badge/news-image-20261119/syahruldyh/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119)
@@ -14,14 +15,17 @@ original AI illustrations.
 
 ## The day it sums up
 
-The big three: the first-ever Trump–Xi–Putin trilateral summit in
-Shenzhen, the ICJ ruling that Myanmar committed genocide against the
-Rohingya, and Ukraine's third strike on the Kerch Bridge in a week.
-The middle rows carry Bangladesh's turmoil, the Houthi missile that
-reached Riyadh, the expanded Iran blockade, Anthropic's record
-$83bn IPO, the $190.4m Van Gogh record, the COP31 draft that dropped
-every fossil-fuel word, and nine more. Contested claims — like the
-reported tanker fires in Hormuz — are marked as claims on the page.
+The three leads: the first-ever Trump–Xi–Putin trilateral summit
+in Shenzhen, the World Court ruling that Myanmar committed
+genocide against the Rohingya, and the COP31 draft that drops
+fossil fuels and sets a $120bn aid goal. The pictured cards carry
+Berlin's "Article 5-like" cover offer for Kyiv, the Houthi missile
+that damaged Riyadh's PIF tower, Ukraine hitting the Crimea bridge
+again, GTA VI going on sale after 13 years, Anthropic's +17% Nasdaq
+debut, Cyclone Akvan nearing Odisha, Denmark's 109–0 Arctic pact
+vote, and the Hormuz energy crisis. Reported-but-unconfirmed items
+are tagged REPORTED or FORECAST on the page, and the date-check
+strip names the nearby stories that are NOT this day's news.
 
 ## How it works
 
